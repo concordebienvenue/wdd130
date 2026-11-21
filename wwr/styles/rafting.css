@@ -1,8 +1,6 @@
 :root {
     --primary-color: rgb(12, 141, 70);
-    --secondary--color: rgba(171, 166, 166, 0.95);
     --accent1-color: rgb(8, 2, 47);
-    --accent2-color: rgb(176, 176, 8);
     --heading-font: "Times New Roman", "Georgia", Serif;
     --body-font: Arial, Helvetica, sans-serif;
 }
@@ -53,7 +51,7 @@ body {
     margin: 0;
 }
 
-article {
+.hero article {
     position: absolute;
     margin: 10px;
     padding: 10px;
